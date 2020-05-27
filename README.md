@@ -1,5 +1,15 @@
 # Web_Elearning
 
+Dự Án môn học PHÁT TRIỂN ỨNG DỤNG WEB --- Trường Đại Học Bình Dương ---
+
+Sinh viên thực hiện:
+
+Võ Anh Luật
+
+Võ Chí Cường
+
+Nguyễn Hoàng Long
+
 chạy chương trình
 
 git clone https://github.com/Luat99/Web_Elearning.git
