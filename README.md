@@ -2,6 +2,10 @@
 
 Dự Án môn học PHÁT TRIỂN ỨNG DỤNG WEB --- Trường Đại Học Bình Dương ---
 
+Hướng Dẫn Viên:
+
+Nguyễn Văn Vịnh
+
 Sinh viên thực hiện:
 
 Võ Anh Luật
