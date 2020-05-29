@@ -12,7 +12,7 @@ Võ Anh Luật
 
 Võ Chí Cường
 
-Nguyễn Hoàng Long
+Đỗ Nguyễn Hoàng Long
 
 chạy chương trình
 
